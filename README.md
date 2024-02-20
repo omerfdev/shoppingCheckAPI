@@ -1,2 +1,2 @@
 
-![Açıklama](https://github.com/omerfdev/shoppingCheckAPI/blob/master/goProduct.png)
+![Açıklama](https://github.com/omerfdev/qrAPI/blob/main/qrAPI.png)
